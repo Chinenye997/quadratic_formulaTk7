@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\bin\Debug\quadratic formula.exe.config
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\bin\Debug\quadratic formula.exe
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\bin\Debug\quadratic formula.pdb
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\obj\Debug\quadratic formula.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\obj\Debug\quadratic_formula.Form1.resources
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\obj\Debug\quadratic_formula.Properties.Resources.resources
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\obj\Debug\quadratic formula.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\obj\Debug\quadratic formula.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\obj\Debug\quadratic formula.exe
+C:\Users\USER\Desktop\Coding practice\quadratic formula\quadratic formula\obj\Debug\quadratic formula.pdb
