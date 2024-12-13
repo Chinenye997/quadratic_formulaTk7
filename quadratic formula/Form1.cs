@@ -32,5 +32,9 @@ namespace quadratic_formula
             lb_Answer2.Text = ans2.ToString("n2");
 
         }
+
+       
+
+       
     }
 }
